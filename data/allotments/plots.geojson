@@ -3,6 +3,7 @@
 "name": "plots",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": null, "Name": "dummy", "Gender": "dummy", "Minor-stat": "dummy", "Category": "dummy", "Tribe": "dummy", "Allot-date": null, "section": "dummy", "town": "dummy", "range": "dummy", "Acreage": 1234, "Value": 1234.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -96.547716176168393, 35.87879831784845 ], [ -96.529929679756634, 35.878790818471728 ], [ -96.529954668056916, 35.871600316958713 ], [ -96.547632672585465, 35.871540316117795 ], [ -96.547716176168393, 35.87879831784845 ] ] ] ] } }
+{ "type": "Feature", "properties": { "id": null, "Name": "dummy", "Gender": "dummy", "Minor-stat": "dummy", "Category": "dummy", "Tribe": "dummy", "Allot-date": null, "section": "dummy", "town": "dummy", "range": "dummy", "Acreage": 1234, "Value": 1234.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -96.547747030066589, 35.878968243220882 ], [ -96.529882281844863, 35.878968243220882 ], [ -96.529954668056916, 35.871600316958713 ], [ -96.547632672585465, 35.871540316117795 ], [ -96.547747030066589, 35.878968243220882 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": null, "Name": "afg", "Gender": "sdf", "Minor-stat": "f", "Category": null, "Tribe": "dfs", "Allot-date": null, "section": null, "town": null, "range": null, "Acreage": null, "Value": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -96.547715354981094, 35.882674228224325 ], [ -96.543217492840157, 35.882610878053327 ], [ -96.543280843011161, 35.879031593391879 ], [ -96.547747030066589, 35.878968243220882 ], [ -96.547715354981094, 35.882674228224325 ] ] ] ] } }
 ]
 }
