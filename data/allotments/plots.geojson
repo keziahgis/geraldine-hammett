@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "plots",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": "dummy", "Gender": "dummy", "Minor-stat": "dummy", "Category": "dummy", "Tribe": "dummy", "Allot-date": null, "section": "dummy", "town": "dummy", "range": "dummy", "Acreage": 1234, "Value": 1234.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -96.547716176168393, 35.87879831784845 ], [ -96.529929679756634, 35.878790818471728 ], [ -96.529954668056916, 35.871600316958713 ], [ -96.547632672585465, 35.871540316117795 ], [ -96.547716176168393, 35.87879831784845 ] ] ] ] } }
+]
+}
