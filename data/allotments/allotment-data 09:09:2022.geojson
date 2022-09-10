@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "allotment-data 09:09:2022",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "Name": "Geraldine Hemmitt", "Category": "Freedmen", "Dawes Roll": "CrFM", "Acreage": "20", "Gender": "Female", "Allot-Date": "1907-06-18", "Value": 44.0, "Tribe": "Creek", "Minor-Stat": "Minor", "section": "11", "township": "16", "range": "7", "legal-desc": "fill-in" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -96.541037534959742, 35.886207266711452 ], [ -96.541037534959742, 35.882674100835906 ], [ -96.538759572750521, 35.882674100835906 ], [ -96.538759572750521, 35.886207266711452 ], [ -96.541037534959742, 35.886207266711452 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "Geraldine Hemmitt", "Category": "Freedmen", "Dawes Roll": "CrFM305", "Acreage": "40", "Gender": "Female", "Allot-Date": "1907-06-18", "Value": 88.0, "Tribe": "Creek", "Minor-Stat": "Minor", "section": "3", "township": "16", "range": "7", "legal-desc": "fill-in" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -96.552241389907195, 35.893517665842118 ], [ -96.549916938673292, 35.893517665842118 ], [ -96.550009916722644, 35.886125910918288 ], [ -96.552334367956561, 35.88621888896764 ], [ -96.552241389907195, 35.893517665842118 ] ] ] ] } }
+]
+}
