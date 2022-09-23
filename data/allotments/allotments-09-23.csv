@@ -1,0 +1,14 @@
+id,Name,Category,Dawes Roll,Acreage,Gender,Allot-Date,Value,Tribe,Minor-Stat,section,township,range,legal-desc,Blood Quantum,Homestead Status
+CH8,Clara Hemmitt,Freedmen,CrF5665,"40",Female,1906/08/24,"176",Creek,Non-Minor,"23","14","8","SE 1/4 of SE 1/4, S23, T14, R8",F,Non-Homestead
+CH7,Clara Hemmitt,Freedmen,CrF5665,"40",Female,1906/08/24,"88",Creek,Non-Minor,"23","14","8","SW 1/4 of SE 1/4, S23, T14, R8",F,Non-Homestead
+GH1,Geraldine Hemmitt,Freedmen,CrFM305,"40",Female,1907/06/18,"88",Creek,Minor,"3","16","7",fill-in,F,Homestead
+GH2,Geraldine Hemmitt,Freedmen,CrFM305,"20",Female,1907/06/18,"44",Creek,Minor,"11","16","7",fill-in,F,Non-Homestead
+GH3,Geraldine Hemmitt,Freedmen,CrFM305,"40",Female,1907/06/18,"88",Creek,Minor,"2","16","7","NE 1/4 of SW 1/4, S2, T16, R7",F,Non-Homestead
+GH4,Geraldine Hemmitt,Freedmen,CrFM305,"40",Female,1907/06/18,"88",Creek,Minor,"2","16","7","NW 1/4 of SE 1/4, S2, T16, R7",F,Non-Homestead
+GH5,Geraldine Hemmitt,Freedmen,CrFM305,"20",Female,1907/06/18,"44",Creek,Minor,"2","16","7","E 1/2 of SE 1/4 of SW 1/4, S2, T16, R7",F,Non-Homestead
+CH1,Clara Hemmitt,Freedmen,CrF5665,"10",Female,1906/08/24,"48",Creek,Non-Minor,"4","13","8",SE 1/4 of SW 1/4 of NE 1/4,F,Non-Homestead
+CH2,Clara Hemmitt,Freedmen,CrF5665,"20",Female,1906/08/24,"96",Creek,Non-Minor,"4","13","8","W 1/2 of SW 1/4 of NE 1/4, S4, T13, R8",F,Non-Homestead
+CH3,Clara Hemmitt,Freedmen,CrF5665,"5",Female,1906/08/24,"24",Creek,Minor,"4","13","8","W 1/2 of NE 1/4 of SW 1/4 of NE 1/4, S4, T13, R8",F,Non-Homestead
+CH4,Clara Hemmitt,Freedmen,CrF5665,"2.5",F,1906/08/24,"12",Creek,Non-Minor,"4","13","8","SE 1/4 of NE 1/4 of SW 1/4 of NE 1/4, S4, T13, R8",F,Non-Homestead
+CH5,Clara Hemmitt,Freedmen,CrF5665,"40",Female,1906/08/24,"176",Creek,Non-Minor,"23","14","8","NE 1/4 of SE 1/4, S23, T14, R8",F,Homestead
+CH6,Clara Hemmitt,Freedmen,CrF5665,"2.5",Female,1906/08/24,"5.5",Creek,Non-Minor,"23","14","8","SE 1/4 of SE 1/4 of NW 1/4 of SE 1/4, S23, T14, R8",F,Non-Homestead
