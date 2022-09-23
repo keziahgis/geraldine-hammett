@@ -3,3 +3,4 @@
 Acquired the PLSS sections from downloading from [website link].
 Then select only the section of interest to subjects of study.
 This download selection process takes a bit of time.
+In order to read township, section, and range data, I consulted this document [https://web.gccaz.edu/~lynrw95071/Township%20Range%20Explanation.html]. It was an important realization for me that for some tribes (like the Muscogee Creek), there may not be a notation of E/W or N/S on the townships and ranges because those tribes only had land on the eastern half of the state of Oklahoma, and may have only had lands in the north or south regions of townships.  
