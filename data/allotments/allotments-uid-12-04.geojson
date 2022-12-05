@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "allotment-uid-12-02-2022",
+"name": "allotments-uid-12-04",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": "CH5" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -96.42804404868383, 35.671981728168788 ], [ -96.42804404868383, 35.675576287804809 ], [ -96.423319625339488, 35.675576287804809 ], [ -96.423319625339488, 35.671981728168788 ], [ -96.42804404868383, 35.671981728168788 ] ] ] ] } },
